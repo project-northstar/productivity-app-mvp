@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj": {}
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj": {
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj",
+        "projectUniqueName": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj",
         "projectName": "Cost.BusinessService",
-        "projectPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj",
+        "projectPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\Cost.BusinessService.csproj",
         "packagesPath": "C:\\Users\\Abhishek Holla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\obj\\",
+        "outputPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.BusinessService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhishek Holla\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj": {}
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj": {
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj",
         "projectName": "Cost.Common",
-        "projectPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj",
+        "projectPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\Cost.Common.csproj",
         "packagesPath": "C:\\Users\\Abhishek Holla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\obj\\",
+        "outputPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhishek Holla\\AppData\\Roaming\\NuGet\\NuGet.Config",

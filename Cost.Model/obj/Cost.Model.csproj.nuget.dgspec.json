@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj": {}
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj": {
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj",
         "projectName": "Cost.Model",
-        "projectPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj",
+        "projectPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\Cost.Model.csproj",
         "packagesPath": "C:\\Users\\Abhishek Holla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\obj\\",
+        "outputPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhishek Holla\\AppData\\Roaming\\NuGet\\NuGet.Config",
