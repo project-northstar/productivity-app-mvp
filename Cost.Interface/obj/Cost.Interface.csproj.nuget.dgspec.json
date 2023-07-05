@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj": {}
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj": {
+    "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj",
         "projectName": "Cost.Interface",
-        "projectPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj",
+        "projectPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\Cost.Interface.csproj",
         "packagesPath": "C:\\Users\\Abhishek Holla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhishek Holla\\source\\repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\obj\\",
+        "outputPath": "C:\\Users\\Abhishek Holla\\Source\\Repos\\project-northstar\\productivity-app-mvp\\Cost.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhishek Holla\\AppData\\Roaming\\NuGet\\NuGet.Config",

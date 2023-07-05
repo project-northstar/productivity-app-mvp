@@ -1,0 +1,17 @@
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.csproj.AssemblyReference.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.AssemblyInfoInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.AssemblyInfo.cs
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.Repository.deps.json
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.Repository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.Repository.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.Common.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.IRepository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.Common.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\bin\Debug\net6.0\Cost.IRepository.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.csproj.CopyComplete
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\refint\Cost.Repository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\Cost.Repository.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Repository\obj\Debug\net6.0\ref\Cost.Repository.dll
