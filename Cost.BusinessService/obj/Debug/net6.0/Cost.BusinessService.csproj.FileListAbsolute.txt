@@ -1,0 +1,12 @@
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\bin\Debug\net6.0\Cost.BusinessService.deps.json
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\bin\Debug\net6.0\Cost.BusinessService.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\bin\Debug\net6.0\Cost.BusinessService.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.csproj.AssemblyReference.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.AssemblyInfoInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.AssemblyInfo.cs
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\refint\Cost.BusinessService.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\Cost.BusinessService.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.BusinessService\obj\Debug\net6.0\ref\Cost.BusinessService.dll

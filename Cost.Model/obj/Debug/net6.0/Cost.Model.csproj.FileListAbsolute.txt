@@ -1,0 +1,12 @@
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\bin\Debug\net6.0\Cost.Model.deps.json
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\bin\Debug\net6.0\Cost.Model.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\bin\Debug\net6.0\Cost.Model.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.csproj.AssemblyReference.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.AssemblyInfoInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.AssemblyInfo.cs
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\refint\Cost.Model.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\Cost.Model.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\Cost.Model\obj\Debug\net6.0\ref\Cost.Model.dll

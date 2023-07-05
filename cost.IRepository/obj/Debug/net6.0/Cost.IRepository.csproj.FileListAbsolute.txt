@@ -1,0 +1,12 @@
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\bin\Debug\net6.0\Cost.IRepository.deps.json
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\bin\Debug\net6.0\Cost.IRepository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\bin\Debug\net6.0\Cost.IRepository.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.csproj.AssemblyReference.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.AssemblyInfoInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.AssemblyInfo.cs
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\refint\Cost.IRepository.dll
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\Cost.IRepository.pdb
+C:\Users\Abhishek Holla\Source\Repos\project-northstar\productivity-app-mvp\cost.IRepository\obj\Debug\net6.0\ref\Cost.IRepository.dll
